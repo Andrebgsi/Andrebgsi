@@ -1,9 +1,10 @@
-## Boas vindas ao meu perfil 😀
+## Boas vindas ao meu perfil 👨‍💻
+ 
+Hello, André aqui. 👋
 
-Um texto bem legal sobre André aqui.
+Entusiasta de tecnologia, já fui estudante de Publicidade e Propaganda, Atualmente Cursando Sistemas de informação na PUC Minas, com background em Sistemas da Informação pela UFVJM (trancado no 5º período). Tenho paixão pelo desenvolvimento web e pelo mercado digital, buscando aprofundar meus conhecimentos em Full Stack pela Trybe e outras plataformas educacionais. Meu objetivo é unir a experiência em tecnologia e comunicação para explorar novas oportunidades no universo digital.
 
 * 💻 Desenvolvedor FullStack! 💻
-
 
 - 📫 How to reach me: ...
 
@@ -11,8 +12,12 @@ Um texto bem legal sobre André aqui.
   
   ✉️ Você pode entrar em contato comigo pelo e-mail: [andrebgsi@gmail.com](mailto:andrebgsi@gmail.com)
 
+  🌐 Acessar meu site <a href="http://andrebg.com.br/" target="blank">andrebg.com.br</a>
+
   
 <br>
+
+##
 
 <!-- GITHUB STATUS -->
 <div align="center">
@@ -22,22 +27,54 @@ Um texto bem legal sobre André aqui.
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
+##
+
+### Specialty
+
+<img align="center" alt="andrebg-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> TypeScript
+
+##
 
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+<div style="display: inline_block"><br>
+  <img align="center" alt="andrebg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> Javascript
+  <img align="center" alt="andrebg-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> TypeScript
+  <img align="center" alt="andrebg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML
+  <img align="center" alt="andrebg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS
+  <img align="center" alt="andrebg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python
+  <img align="center" alt="andrebg-java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> Java
+  <img align="center" alt="andrebg-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> C#
+  <img align="center" alt="andrebg-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /> Kotlin
+  <img align="center" alt="andrebg-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> PHP
+
+
+</div>
+
+##
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+<img align="center" alt="andrebg-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React
+<img align="center" alt="andrebg-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /> Django
+<img align="center" alt="andrebg-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> Docker
+<img align="center" alt="andrebg-kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /> Kubernetes
+<img align="center" alt="andrebg-adonisjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" /> Adonisjs
+<img align="center" alt="andrebg-nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /> Nestjs
+<img align="center" alt="andrebg-nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> Nextjs
+<img align="center" alt="andrebg-astro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" /> Astro
+<img align="center" alt="andrebg-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> Mysql
+
+
+<img align="center" alt="andrebg-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> Postgresql
+<img align="center" alt="andrebg-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> Mongodb
+<img align="center" alt="andrebg-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /> Jest
+<img align="center" alt="andrebg-mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" /> Mocha
+<img align="center" alt="andrebg-cypressio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" /> Cypressio
+<img align="center" alt="andrebg-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /> Sass
+<img align="center" alt="andrebg-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> Tailwindcss
+<img align="center" alt="andrebg-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> Bootstrap
+
 
 ##
 
