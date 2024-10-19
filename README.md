@@ -8,11 +8,11 @@ Entusiasta de tecnologia, já fui estudante de Publicidade e Propaganda, Atualme
 
 - 📫 How to reach me: ...
 
-  🔗 Conecte-se comigo no <a href="https://linkedin.com/in/andre-bacelar-goncalves" target="blank">LinkedIn</a>
+  🔗 Conecte-se comigo no <a href="https://linkedin.com/in/andre-bacelar-goncalves" target="_blank" rel="noopener">LinkedIn</a>
   
   ✉️ Você pode entrar em contato comigo pelo e-mail: [andrebgsi@gmail.com](mailto:andrebgsi@gmail.com)
 
-  🌐 Acessar meu site <a href="http://andrebg.com.br/" target="blank">andrebg.com.br</a>
+  🌐 Acessar meu site <a href="http://andrebg.com.br/" target="_blank" rel="noopener">andrebg.com.br</a>
 
   
 <br>
