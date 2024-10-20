@@ -1,5 +1,9 @@
 ## Boas vindas ao meu perfil 👨‍💻
- 
+
+<div align="center">
+  <img align="right" src="https://github.com/andrebgsi/andrebgsi/blob/main/andrebgsi/images/mario.gif" height="200px" />
+</div>
+
 Hello, André aqui. 👋
 
 Entusiasta de tecnologia, já fui estudante de Publicidade e Propaganda, Atualmente Cursando Sistemas de informação na PUC Minas, com background em Sistemas da Informação pela UFVJM (trancado no 5º período). Tenho paixão pelo desenvolvimento web e pelo mercado digital, buscando aprofundar meus conhecimentos em Full Stack pela Trybe e outras plataformas educacionais. Meu objetivo é unir a experiência em tecnologia e comunicação para explorar novas oportunidades no universo digital.
@@ -64,21 +68,21 @@ Entusiasta de tecnologia, já fui estudante de Publicidade e Propaganda, Atualme
 <img align="center" alt="andrebg-nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> Nextjs
 <img align="center" alt="andrebg-astro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" /> Astro
 <img align="center" alt="andrebg-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> Mysql
-
-
 <img align="center" alt="andrebg-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> Postgresql
 <img align="center" alt="andrebg-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> Mongodb
-<img align="center" alt="andrebg-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /> Jest
-<img align="center" alt="andrebg-mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" /> Mocha
-<img align="center" alt="andrebg-cypressio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" /> Cypressio
 <img align="center" alt="andrebg-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /> Sass
 <img align="center" alt="andrebg-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> Tailwindcss
 <img align="center" alt="andrebg-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> Bootstrap
 
-
 ##
 
+### Tests
+   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+   ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+   ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+   ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
+##
 
  <!-- GITHUB STATUS -->
 <div align="center">
@@ -102,6 +106,7 @@ Entusiasta de tecnologia, já fui estudante de Publicidade e Propaganda, Atualme
     </a>
   
  </div>
+
 
  
  <div align="center">
