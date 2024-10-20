@@ -101,9 +101,8 @@ Entusiasta de tecnologia, já fui estudante de Publicidade e Propaganda, Atualme
 
  <div align="center">
 
-  ![Snake animation](https://github.com/andrebgsi/andrebgsi/blob/main/andrebgsi/images/github-contribution-grid-snake.svg)
   <!--- ![Snake animation](https://github.com/andrebgsi/andrebgsi/blob/main/andrebgsi/images/github-contribution-grid-snake.svg) --->
-  <!--- ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) --->
+  <!--- ![Snake animation](https://github.com/andrebgsi/andrebgsi/blob/main/andrebgsi/images/github-contribution-grid-snake.svg) --->
   
  </div>
 
