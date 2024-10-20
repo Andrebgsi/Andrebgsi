@@ -88,6 +88,7 @@ Entusiasta de tecnologia, já fui estudante de Publicidade e Propaganda, Atualme
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
+<br>
 <!-- SOCIAL -->
  <div align="center" >
     <a href ="mailto:andrebgsi@gmail.com"> <!---Gmail--->
