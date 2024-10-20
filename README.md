@@ -14,7 +14,7 @@ Entusiasta de tecnologia, já fui estudante de Publicidade e Propaganda, Atualme
 
   🌐 Acessar meu site <a href="http://andrebg.com.br/" target="_blank" rel="noopener">andrebg.com.br</a>
 
-  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrebgsi&label=Profile%20views&color=0e75b6&style=flat" alt="andrebgsi" /> </p>
 <br>
 
 ##
@@ -22,7 +22,8 @@ Entusiasta de tecnologia, já fui estudante de Publicidade e Propaganda, Atualme
 <!-- GITHUB STATUS -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrebgsi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebgsi&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebgsi&layout=compact&theme=dracula"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrebgsi&layout=compact&theme=dracula"" alt="andrebgsi" />
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
