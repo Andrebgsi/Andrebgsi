@@ -22,9 +22,7 @@ Entusiasta de tecnologia, já fui estudante de Publicidade e Propaganda, Atualme
 <!-- GITHUB STATUS -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrebgsi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=andrebgsi&layout=compact&theme=dracula"" alt="andrebgsi" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebgsi&layout=compact&theme=dracula"/> 
-  <img height="180em"  src="https://github-readme-activity-graph.vercel.app/graph?username=andrebgsi&layout=compact&theme=dracula"" alt="andrebgsi" />
  
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
@@ -92,6 +90,14 @@ Entusiasta de tecnologia, já fui estudante de Publicidade e Propaganda, Atualme
     </a>
   
  </div>
+
+ <!-- GITHUB STATUS -->
+<div align="center">
+  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=andrebgsi&layout=compact&theme=dracula"" alt="andrebgsi" />
+  <img height="180em"  src="https://github-readme-activity-graph.vercel.app/graph?username=andrebgsi&layout=compact&theme=dracula"" alt="andrebgsi" />
+ 
+  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+</div>
 
  <div align="center">
 
