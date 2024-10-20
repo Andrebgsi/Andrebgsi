@@ -22,9 +22,10 @@ Entusiasta de tecnologia, já fui estudante de Publicidade e Propaganda, Atualme
 <!-- GITHUB STATUS -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrebgsi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebgsi&layout=compact&theme=dracula"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrebgsi&layout=compact&theme=dracula"" alt="andrebgsi" />
-
+  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=andrebgsi&layout=compact&theme=dracula"" alt="andrebgsi" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebgsi&layout=compact&theme=dracula"/> 
+  <img height="180em"  src="https://github-readme-activity-graph.vercel.app/graph?username=andrebgsi&layout=compact&theme=dracula"" alt="andrebgsi" />
+ 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
@@ -86,6 +87,10 @@ Entusiasta de tecnologia, já fui estudante de Publicidade e Propaganda, Atualme
     <a href="https://www.linkedin.com/in/andre-bacelar-goncalves/" target="_blank"> <!---LinkedIn--->
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
+    <a href="https://dev.to/andrebgsi" target="_blank"> <!---dev.to--->
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank">
+    </a>
+  
  </div>
 
  <div align="center">
