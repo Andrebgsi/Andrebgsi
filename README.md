@@ -78,6 +78,17 @@ Entusiasta de tecnologia, já fui estudante de Publicidade e Propaganda, Atualme
 
 ##
 
+
+
+ <!-- GITHUB STATUS -->
+<div align="center">
+  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=andrebgsi&layout=compact&theme=dracula"" alt="andrebgsi" />
+  <img height="180em"  src="https://github-readme-activity-graph.vercel.app/graph?username=andrebgsi&layout=compact&theme=dracula"" alt="andrebgsi" />
+ 
+  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+</div>
+
+<!-- SOCIAL -->
  <div align="center" >
     <a href ="mailto:andrebgsi@gmail.com"> <!---Gmail--->
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -91,14 +102,7 @@ Entusiasta de tecnologia, já fui estudante de Publicidade e Propaganda, Atualme
   
  </div>
 
- <!-- GITHUB STATUS -->
-<div align="center">
-  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=andrebgsi&layout=compact&theme=dracula"" alt="andrebgsi" />
-  <img height="180em"  src="https://github-readme-activity-graph.vercel.app/graph?username=andrebgsi&layout=compact&theme=dracula"" alt="andrebgsi" />
  
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-</div>
-
  <div align="center">
 
   <!--- ![Snake animation](https://github.com/andrebgsi/andrebgsi/blob/main/andrebgsi/images/github-contribution-grid-snake.svg) --->
